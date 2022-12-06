@@ -1,5 +1,6 @@
 # GreenCoding-measuring-tools
 Overview for measuring tools around software energy and CO2 consumption
 
-![Alt text](Tools Overview)
+Open the svg in own tab to click on the tool of interest to enter their website
+
 <img src="./20221205_Tools.drawio.svg">
